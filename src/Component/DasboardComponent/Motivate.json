@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "motivation": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas officia molestias dolor, molestiae necessitatibus accusantium nisi ipsa eius esse voluptatem nulla, libero cupiditate, eos explicabo. Labore laboriosam illum vitae aliquid?",
+        "bg": "#45b0e6",
+        "color": ""
+    },
+    {
+        "id": 2,
+        "motivation": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas officia molestias dolor, molestiae necessitatibus accusantium nisi ipsa eius esse voluptatem nulla, libero cupiditate, eos explicabo. Labore laboriosam illum vitae aliquid?",
+        "bg": "#e69b45",
+        "color": ""
+    },
+    {
+        "id": 3,
+        "motivation": "lorem ipsun et letsbsbnvb  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas officia molestias dolor, molestiae necessitatibus accusantium nisi ipsa eius esse voluptatem nulla, libero cupiditate, eos explicabo. Labore laboriosam illum vitae aliquid?",
+        "bg": "#45e69d",
+        "color": ""
+    },
+    {
+        "id": 4,
+        "motivation": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas officia molestias dolor, molestiae necessitatibus accusantium nisi ipsa eius esse voluptatem nulla, libero cupiditate, eos explicabo. Labore laboriosam illum vitae aliquid?",
+        "bg": "#e67045",
+        "color": ""
+    }
+]
